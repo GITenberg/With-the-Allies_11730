@@ -1,5 +1,8 @@
 _repo: With-the-Allies_11730
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Davis, Richard Harding
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/181
     wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11730#With-the-Allies
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
